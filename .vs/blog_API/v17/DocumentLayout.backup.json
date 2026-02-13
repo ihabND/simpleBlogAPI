@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PYTHON\\Vise bitnije\\blog_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EFF1A-E4FB-43A4-ABE9-A942D1B6D118}|blog_API\\blog_API.pyproj|D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E4EFF1A-E4FB-43A4-ABE9-A942D1B6D118}|blog_API\\blog_API.pyproj|solutionrelative:blog_API\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EFF1A-E4FB-43A4-ABE9-A942D1B6D118}|blog_API\\blog_API.pyproj|D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E4EFF1A-E4FB-43A4-ABE9-A942D1B6D118}|blog_API\\blog_API.pyproj|solutionrelative:blog_API\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4EFF1A-E4FB-43A4-ABE9-A942D1B6D118}|blog_API\\blog_API.pyproj|D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E4EFF1A-E4FB-43A4-ABE9-A942D1B6D118}|blog_API\\blog_API.pyproj|solutionrelative:blog_API\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.py",
+              "DocumentMoniker": "D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\database.py",
+              "RelativeDocumentMoniker": "blog_API\\database.py",
+              "ToolTip": "D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\database.py",
+              "RelativeToolTip": "blog_API\\database.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-12T20:00:09.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "models.py",
+              "DocumentMoniker": "D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\models.py",
+              "RelativeDocumentMoniker": "blog_API\\models.py",
+              "ToolTip": "D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\models.py",
+              "RelativeToolTip": "blog_API\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-12T19:56:48.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\main.py",
+              "RelativeDocumentMoniker": "blog_API\\main.py",
+              "ToolTip": "D:\\PYTHON\\Vise bitnije\\blog_API\\blog_API\\main.py",
+              "RelativeToolTip": "blog_API\\main.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-12T19:53:06.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
