@@ -64,7 +64,7 @@ def search_blogs(term, session: Session = Depends(get_session)):
     for blog in blogs:
         if(term in blog.title.lower() or term in blog.content.lower()):
             blog.title = blog.title.lower().replace(term, term.upper())
-            blog.content = blog.content.lower().replace(term, term.upper())
+            blog.content = blog.content.replace(term, term.upper())
             found_blogs.append(blog)
     if found_blogs:
         return found_blogs
